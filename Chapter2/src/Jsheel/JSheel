@@ -1,0 +1,4 @@
+shell 是 JDK 9 支持的新特性，可以像 JavaScript，python 等语言直接进入环境写代码直接运行，不需要先创建文件然后编译运行
+在IDEA 中 在主菜单中 选择 Tools -> JShell Console. 就可以打开窗口，
+
+创建一个变量，然后打印出来
